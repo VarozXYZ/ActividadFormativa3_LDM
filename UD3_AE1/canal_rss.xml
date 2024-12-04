@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Horizontes de la IA</title>
+    <link>http://127.0.0.1</link>
+    <description>Explorando el impacto de la inteligencia artificial en nuestras vidas.</description>
+    <language>es</language>
+
+    <image>
+      <title>El Auge de la IA Generativa</title>
+      <url>imagenArticulo.png</url>
+      <link>http://127.0.0.1/UD3_AE1/</link>
+      <width>30</width>
+      <height>15</height>
+      <description>Imagen de IA regenerativa</description>
+    </image>
+
+    <item>
+      <title>Articulo1</title>
+      <link>https://miwebdeIA.com/auge-ia-generativa</link>
+      <description>La IA generativa está revolucionando las industrias...</description>
+    </item>
+
+  </channel>
+</rss>
